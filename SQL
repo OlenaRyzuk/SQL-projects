@@ -1,3 +1,0 @@
-sql/01_combine_ads.sql
-data/google_ads_basic_daily.csv
-docs/README.md

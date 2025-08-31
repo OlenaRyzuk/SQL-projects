@@ -43,7 +43,7 @@ The output table provides daily performance by `utm_campaign`, including:
 - calculated KPIs (CTR, CPC, CPM, ROMI)
 
 ## Outputs
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 

@@ -45,7 +45,7 @@ The output table provides daily performance by `utm_campaign`, including:
 ## Outputs
 ![Dashboard](Dashboard.png)
 
-
+The full interactive version can be viewed at: [Open Tableau Dashboard](https://public.tableau.com/app/profile/olena.ryzuk/viz/MarketingKPIs_17566738708590/MarketingKPIs?publish=yes)
 
 
 ## Skills Demonstrated

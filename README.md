@@ -47,11 +47,19 @@ The output table provides daily performance by `utm_campaign`, including:
 
 The full interactive version can be viewed at: [Open Tableau Dashboard](https://public.tableau.com/app/profile/olena.ryzuk/viz/MarketingKPIs_17566738708590/MarketingKPIs?publish=yes)
 
-
+## Conclusion
+- CTR showed significant drops in March–April 2021 and January–February 2022.
+- In 2022, CPC increased while CTR decreased, indicating that marketing campaigns became less effective.
+- CPM rose in 2022, accompanied by a decrease in ROMI.
+  
 ## Skills Demonstrated
 - SQL: CTEs, aggregations, regex parsing, user-defined functions (PL/pgSQL)
 - Data cleaning and transformation
 - Marketing analytics and KPI calculation
+
+## Recommendations
+- Optimize ad spend to reduce CPC while improving CTR.
+- Focus on campaigns with higher ROMI and consider reallocating budget from low-performing campaigns.
 
 ## Usage
 1. Load the CSV files into a PostgreSQL database.
